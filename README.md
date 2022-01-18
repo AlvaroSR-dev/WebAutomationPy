@@ -7,7 +7,7 @@ In this case I will be using Python to autofill a newsletter form.
 
 ## Example video
 In this case, I am using the script to fill up the ABC Newsletter (https://www.abc.es/registro-newsletter/personalize.aspx):
-video URL
+https://youtu.be/c3jgjQHcwHI
 
 ## Requirements
 To run this code, you will need to install Python:
