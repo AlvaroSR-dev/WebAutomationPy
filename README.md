@@ -3,6 +3,8 @@ Hi, this is a class project to learn to automatize tasks using scripts.
 
 In this case I will be using Python to autofill a newsletter form.
 
+! DISCLAIMER: many websites are able to detect and block automations as you can see in my example, this means that using autofill scripts is not allowed to avoid spam and attacks and your data will not be stored as it is coming from an automatization script.
+
 ## Example video
 In this case, I am using the script to fill up the ABC Newsletter (https://www.abc.es/registro-newsletter/personalize.aspx):
 video URL
