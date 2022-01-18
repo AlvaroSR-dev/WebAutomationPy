@@ -1,5 +1,4 @@
 # WebAutomationPy
-## Introduction
 Hi, this is a class project to learn to automatize tasks using scripts.
 
 In this case I will be using Python to autofill a newsletter form.
